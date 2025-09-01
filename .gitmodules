@@ -1,0 +1,3 @@
+[submodule "apps/UKBinCollectionData"]
+	path = apps/UKBinCollectionData
+	url = https://github.com/robbrad/UKBinCollectionData
