@@ -1,3 +1,17 @@
 [submodule "apps/UKBinCollectionData"]
 	path = apps/UKBinCollectionData
 	url = https://github.com/m26dvd/UKBinCollectionData
+[submodule "apps/fordpass-ha"]
+	path = apps/fordpass-ha
+	url = https://github.com/itchannel/fordpass-ha
+	branch = 1.80
+[submodule "apps/home-assistant-hypervolt-charger"]
+	path = apps/home-assistant-hypervolt-charger
+	url = https://github.com/gndean/home-assistant-hypervolt-charger
+[submodule "apps/HomeAssistant-OctopusEnergy"]
+	path = apps/HomeAssistant-OctopusEnergy
+	url = https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
+	branch = main
+[submodule "apps/owlet"]
+	path = apps/owlet
+	url = https://github.com/ryanbdclark/owlet
